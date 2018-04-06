@@ -28,9 +28,9 @@ Now in on the **Account Linking** page in the Alexa Skills Kit Developer Console
   <dt>Access Token URI</dt>
   <dd><code>https://genomelink.io/oauth/token</code></dd>
   <dt>Client ID</dt>
-  <dd>Copy and paste your **Client id** from the GENOME LINK app page</dd>
+  <dd>Copy and paste your <b>Client id</b> from the GENOME LINK app page</dd>
   <dt>Client Secret</dt>
-  <dd>Copy and paste your **Client secret** from the GENOME LINK app page</dd>
+  <dd>Copy and paste your <b>Client secret</b> from the GENOME LINK app page</dd>
   <dt>Client Authentication Scheme</dt>
   <dd><code>HTTP Basic</code></dd>
   <dt>Scope</dt>

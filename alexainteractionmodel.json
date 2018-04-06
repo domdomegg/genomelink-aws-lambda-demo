@@ -1,0 +1,120 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "genome link explorer",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetEyeColor",
+                    "slots": [],
+                    "samples": [
+                        "what color are my eyes",
+                        "eye color",
+                        "eye colour"
+                    ]
+                },
+                {
+                    "name": "GetMorning",
+                    "slots": [],
+                    "samples": [
+                        "morning person",
+                        "am I a morning person",
+                        "get morning"
+                    ]
+                },
+                {
+                    "name": "GetBeard",
+                    "slots": [],
+                    "samples": [
+                        "beard thickness",
+                        "beard"
+                    ]
+                },
+                {
+                    "name": "GetAgreeableness",
+                    "slots": [],
+                    "samples": [
+                        "how agreeable am I",
+                        "agreeableness"
+                    ]
+                },
+                {
+                    "name": "GetAlcohol",
+                    "slots": [],
+                    "samples": [
+                        "drinker",
+                        "alcohol drinking behavior",
+                        "alcohol drinking",
+                        "alcohol drinking behaviour",
+                        "alcohol"
+                    ]
+                },
+                {
+                    "name": "GetALA",
+                    "slots": [],
+                    "samples": [
+                        "a. l. a.",
+                        "linolenic acid",
+                        "alpha linolenic acid"
+                    ]
+                },
+                {
+                    "name": "GetAnger",
+                    "slots": [],
+                    "samples": [
+                        "how easily angered am I",
+                        "how angry",
+                        "angry",
+                        "anger"
+                    ]
+                },
+                {
+                    "name": "GetBetaCarotene",
+                    "slots": [],
+                    "samples": [
+                        "carotene",
+                        "beta carotene"
+                    ]
+                },
+                {
+                    "name": "GetBitter",
+                    "slots": [],
+                    "samples": [
+                        "bitter taste",
+                        "bitterness",
+                        "bitter"
+                    ]
+                },
+                {
+                    "name": "GetBlackHair",
+                    "slots": [],
+                    "samples": [
+                        "tendency to have black hair",
+                        "black hair"
+                    ]
+                },
+                {
+                    "name": "GetGlucose",
+                    "slots": [],
+                    "samples": [
+                        "glucose",
+                        "sugar levels",
+                        "blood glucose"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}

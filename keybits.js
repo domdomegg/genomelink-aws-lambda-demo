@@ -5,7 +5,7 @@ const https = require('https');
 const accessToken = 'GENOMELINKTEST001';
 // https://genomelink.io/developers/reference/reports/
 const phenotype_url = 'eye-color';
-console.log("Using access token '" + accessToken + "' and trait: '" + phenotype_url+ "'");
+console.log("Using access token '" + accessToken + "' and trait: '" + phenotype_url + "'");
 
 console.log("Contacting genomelink servers...");
 getData({
